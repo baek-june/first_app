@@ -1,7 +1,8 @@
-import MyComponent from './MyComponent';
+import React from 'react';
+import Say from './Say';
 
 const App = () => {
-  return <MyComponent />;
+  return <Say />;
 };
 
 export default App;
